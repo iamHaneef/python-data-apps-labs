@@ -66,3 +66,13 @@ This repository is organized to reflect a **progressive learning path**:
 To transition from learning Python syntax to building scalable, real-world data applications.
 
 ---
+
+## 👨‍💻 Author
+
+**Muhamad Haneef J**  
+Full Stack Developer  
+📍 Government College of Technology, Coimbatore
+
+<img width="800" height="200" alt="J Muhamad haneef" src="https://github.com/user-attachments/assets/146a1b4a-0a04-4aec-aa4f-7b7901f7ff00" />
+
+---
