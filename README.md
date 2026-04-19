@@ -16,14 +16,6 @@ This repo documents my journey from core Python fundamentals to developing inter
 
 ---
 
-## 🧠 Learning Approach
-
-This repository is organized to reflect a **progressive learning path**:
-
-* Learn concepts → Practice → Build small programs → Develop applications
-
----
-
 ## 📂 Repository Overview
 
 | Section                 | Focus Area              | Description                                                            |
@@ -31,15 +23,6 @@ This repository is organized to reflect a **progressive learning path**:
 | **Python Fundamentals** | Core Concepts           | Covers syntax, control flow, functions, and data structures            |
 | **Mini Programs**       | Problem Solving         | Small applications like calculator, list operations, and file handling |
 | **Streamlit Apps**      | Application Development | Interactive UI-based apps built using Streamlit                        |
-
-
----
-
-## ⚙️ Mini Programs Implemented
-
-* Calculator (basic operations with validation)
-* List operations (sorting, filtering, aggregation)
-* File handling (read/write operations)
 
 ---
 
@@ -51,28 +34,17 @@ This repository is organized to reflect a **progressive learning path**:
 *(These apps focus on UI interaction, state handling, and data display)*
 
 ---
+## ▶️ How to Run
 
-## 🚧 Next Steps
+### Run Python programs
+```bash
+python filename.py
+```
 
-* Improve application structure (modular design)
-* Integrate Snowflake database
-* Add real-world use cases and validations
-* Enhance UI/UX in Streamlit apps
+### Run Streamlit apps
+```bash
+streamlit run app.py
+```
 
----
 
-## 🧭 Goal
 
-To transition from learning Python syntax to building scalable, real-world data applications.
-
----
-
-## 👨‍💻 Author
-
-**Muhamad Haneef J**  
-Full Stack Developer  
-📍 Government College of Technology, Coimbatore
-
-<img width="800" height="200" alt="J Muhamad haneef" src="https://github.com/user-attachments/assets/146a1b4a-0a04-4aec-aa4f-7b7901f7ff00" />
-
----
