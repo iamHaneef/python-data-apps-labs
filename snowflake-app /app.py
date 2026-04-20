@@ -7,6 +7,7 @@ st.set_page_config(page_title="Snowflake Data", layout="wide")
 #title of the app
 st.title("Worker's Data")
 
+# fetching data from snowflake
 data = fetch_data()
 
 if data:

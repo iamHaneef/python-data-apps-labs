@@ -5,7 +5,7 @@ st.title("Product Management System")
 
 st.set_page_config(layout="wide")
 
-# Initialize session state
+# Initialize session states
 
 if "products" not in st.session_state:
     st.session_state.products = []

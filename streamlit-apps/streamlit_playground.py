@@ -6,6 +6,7 @@ import os
 
 st.title("Application Title")
 
+# for header related styles
 st.header("Header")
 
 st.subheader("Subheader")

@@ -8,5 +8,5 @@ print("TECH BOY")
 print("""
 Shall we try
 one more
-Time !!
+Time !!!
 """)
