@@ -16,6 +16,7 @@ def get_connection():
         role = os.getenv("SNOWFLAKE_ROLE")
     )
 
+# fetching data from snowflake
 def fetch_data():
     conn = get_connection()
     cursor = conn.cursor()
