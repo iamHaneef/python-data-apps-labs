@@ -4,6 +4,7 @@ from db import fetch_data
 
 st.set_page_config(page_title="Snowflake Data", layout="wide")
 
+#title of the app
 st.title("Worker's Data")
 
 data = fetch_data()
