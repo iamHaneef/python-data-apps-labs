@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# establishing connection with snowflake
+# establishing connection with snowflake :
 def get_connection():
     return snowflake.connector.connect(
         user = os.getenv("SNOWFLAKE_USER"),
@@ -16,7 +16,7 @@ def get_connection():
         role = os.getenv("SNOWFLAKE_ROLE")
     )
 
-# fetching data from snowflake
+# fetching data from snowflake :
 def fetch_data():
     conn = get_connection()
     cursor = conn.cursor()

@@ -4,10 +4,8 @@ from db import fetch_data
 
 st.set_page_config(page_title="Snowflake Data", layout="wide")
 
-#title of the app show Worker's Data
 st.title("Worker's Data")
 
-# fetching data from snowflake
 data = fetch_data()
 
 if data:
