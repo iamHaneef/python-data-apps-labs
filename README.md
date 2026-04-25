@@ -26,7 +26,7 @@ A collection of data-driven applications built using Python, Streamlit, and Snow
 ## 📸 Screenshots
 
 ### 📊 Streamlit Application UI
-![App UI](./screenshots/streamlit-demo.png)
+![App UI](./Screenshot/streamlit-demo.png)
 
 ---
 
