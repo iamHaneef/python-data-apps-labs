@@ -1,14 +1,8 @@
-# 🚀 Python Data Apps Lab
-
-A collection of data-driven applications built using Python, Streamlit, and Snowflake, focused on developing interactive dashboards and real-world data workflows.
-
----
+# Python Data Apps Labs
 
 ## 📌 Overview
 
-This repository includes practical implementations of Python concepts along with interactive applications built using Streamlit.
-
-It demonstrates how data is processed, visualized, and presented through simple UI-driven applications.
+A collection of data-driven applications built using Python, Streamlit, and Snowflake, focused on developing interactive dashboards and real-world data workflows.
 
 ---
 
@@ -17,7 +11,7 @@ It demonstrates how data is processed, visualized, and presented through simple 
 - Core Python programming and data handling  
 - Interactive web apps using Streamlit  
 - Data retrieval and visualization using Snowflake  
-- Structured approach from fundamentals → applications  
+- Structured approach from fundamentals to applications  
 
 ---
 
@@ -32,7 +26,7 @@ It demonstrates how data is processed, visualized, and presented through simple 
 ## 📸 Screenshots
 
 ### 📊 Streamlit Application UI
-![App UI](./Screenshot/streamlit-demo.png)
+![App UI](./screenshots/streamlit-demo.png)
 
 ---
 
@@ -48,7 +42,7 @@ It demonstrates how data is processed, visualized, and presented through simple 
 ## 📂 Repository Structure
 
 ```bash
-python-data-apps-lab/
+python-data-apps-labs/
 ├── python-fundamentals/
 ├── streamlit-apps/
 ├── snowflake-app/
@@ -56,14 +50,8 @@ python-data-apps-lab/
 ├── README.md
 ```
 
-## ▶️ How to Run
+---
 
-### Run Python programs
-```bash
-python filename.py
-```
+## 🚀 How to Run
 
-### Run Streamlit apps
-```bash
-streamlit run app.py
-```
+> Run Python files using `python filename.py` or launch Streamlit apps using `streamlit run app.py`.
