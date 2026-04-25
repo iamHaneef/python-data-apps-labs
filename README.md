@@ -1,29 +1,47 @@
 # 🚀 Python Data Apps Lab
 
-A structured hands-on learning repository focused on building real-world data-driven applications using Python.
-
-This repo documents my journey from core Python fundamentals to developing interactive applications with Streamlit and integrating data workflows.
+A collection of data-driven applications built using Python, Streamlit, and Snowflake, focused on developing interactive dashboards and real-world data workflows.
 
 ---
 
-## 📌 What This Repository Covers
+## 📌 Overview
 
-- Core Python fundamentals (syntax, control flow, functions)  
-- Data structures (lists, tuples, dictionaries)  
-- Problem-solving through practical programs  
-- Application development using Streamlit  
-- Snowflake database integration (data retrieval and visualization)  
+This repository includes practical implementations of Python concepts along with interactive applications built using Streamlit.
+
+It demonstrates how data is processed, visualized, and presented through simple UI-driven applications.
 
 ---
 
-## 📂 Repository Overview
+## ⚡ Key Highlights
 
-| Section                  | Focus Area              | Description                                                        |
-|--------------------------|-------------------------|--------------------------------------------------------------------|
-| **Python Fundamentals**  | Core Concepts           | Syntax, control flow, functions, and data structures               |
-| **Mini Programs**        | Problem Solving         | Calculator, list operations, file handling                         |
-| **Streamlit Apps**       | Application Development | Interactive UI-based applications using Streamlit                  |
-| **Snowflake Integration**| Data Engineering        | Connecting to Snowflake, querying data, and displaying results     |
+- Core Python programming and data handling  
+- Interactive web apps using Streamlit  
+- Data retrieval and visualization using Snowflake  
+- Structured approach from fundamentals → applications  
+
+---
+
+## 📊 Applications Built
+
+- Product Management Dashboard  
+- User Data Viewer  
+- File-based data processing tools  
+
+---
+
+## 📸 Screenshots
+
+### 📊 Streamlit Application UI
+![App UI](./Screenshot/streamlit-demo.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- Streamlit  
+- Snowflake  
+- SQL  
 
 ---
 
@@ -34,10 +52,10 @@ python-data-apps-lab/
 ├── python-fundamentals/
 ├── streamlit-apps/
 ├── snowflake-app/
+├── screenshots/
 ├── README.md
 ```
 
----
 ## ▶️ How to Run
 
 ### Run Python programs
@@ -49,6 +67,3 @@ python filename.py
 ```bash
 streamlit run app.py
 ```
-
-
-
